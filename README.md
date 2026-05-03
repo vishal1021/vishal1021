@@ -76,7 +76,7 @@ NEHISH SOFTWARE SOLUTIONS (OPC) PRIVATE LIMITED
 
 ---
 
-<h3 align="center">📈 My Contribution Activity</h3>
+<h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
   <picture>
