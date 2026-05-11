@@ -173,7 +173,7 @@ Gaya College, Gaya
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.hackerrank.com/">
+  <a href="https://www.hackerrank.com/profile/vishalsinha021">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
